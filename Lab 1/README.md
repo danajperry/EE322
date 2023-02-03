@@ -7,13 +7,13 @@ First to complete the lab, I followed the given instructions on how to download 
 
 
 ## Half Adder Example
-![Half Adder Image](C:\Users\danaj\Pictures\halfadderexample.png)
+![Half Adder Image](halfadderexample.png)
 
 
 ## D Flip Flop Example
-![D Flip Flop Image](C:\Users\danaj\Pictures\Dflipflop.png)
+![D Flip Flop Image](Dflipflop.png)
 
 ## Terminal Code
-![Terminal Image](C:\Users\danaj\Pictures\terminalforbothexamples.png)
+![Terminal Image](terminalforbothexamples.png)
 
 I enjoyed the lab and learned a lot of new things about GitHub, GHDL, and GTKwave!
