@@ -9,7 +9,7 @@
 
 > This text is a quote
 
-![This is how to add an image](C:\Users\danaj\Pictures\terminalforbothexamples.png)
+![This is how to add an image](terminalforbothexamples.png)
 
 
 ### Below is a list
