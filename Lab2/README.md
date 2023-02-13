@@ -43,7 +43,7 @@ $ rm  file2 removes "file2" from the directory
 $ clear command clears the entre terminal window 
 ![Clear Image](clear.png)
 
-$ man uname is a Linux command (which is why there is not phot as I do not have Linux) that displays the user manual of the uname command
+$ man uname is a Linux command (which is why there is not photo as I do not have Linux) that displays the user manual of the uname command
 $ uname a- prints the operating system as well as the kernel name, system's node name, the kerne release, the kernel vision, and the achine hardware name (also a Linux command) 
 
 $ ifconfig is also a Linux command (so I used ipconfig which is for windows) and it is used to assign an address network interface as well as configure/display the current network interface configuration information
