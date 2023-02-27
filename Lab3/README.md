@@ -22,7 +22,7 @@ $ python3 datetime_example.py will output:
 
 
 $ python3 time_example.py will output:
-![Time Example Image](time_example.py.png)
+![Time Example Image](time_example.png)
 
 
 To run the next command, I needed to download "pytz"
