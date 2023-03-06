@@ -1,1 +1,5 @@
-This will be for Lab 6
+Lab 6
+
+
+![Date Example Image](date_example.py.png)
+
