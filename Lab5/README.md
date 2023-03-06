@@ -6,8 +6,8 @@ The first thing I did for Lab 5 was install Paho-MQTT, change the directory to i
 
 Then, I ran the codes, subcpu.py and pubcpu.py on seperate terminals and got the following:
 
-Subcpu.py:
+###Subcpu.py:
 ![Subcpu](subcpu.py.png)
 
-Pubcpu.py:
+###Pubcpu.py:
 ![Pubcpu](pubcpu.py.png)
