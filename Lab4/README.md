@@ -1,1 +1,1 @@
-This will be for Lab 4
+So, similar to my issues with Lab 9 I am unable to run Django due to not having acccess to UBUNTU or a raspberry pi. I also spent hours on this lab attempting to make it work and ultimaltey could not get the lab to run. 
