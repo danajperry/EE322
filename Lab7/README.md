@@ -8,7 +8,7 @@ Then, I ran thingspeak_cpu_loop.py or thinkspeak_feed.py in a demo folder and in
 ![Cat feed](catfeedlab7.png)
 
 Then I logged in the Google Cloud Platform Identity and Access Management, created a project cpudata, enabled both Drive API and Sheets API, created and downloaded service account JSON key file
-![API key](APIkey.png)
+![API key](API key.png)
 
 Next, I started a new Google sheet cpudata, shared it with the client email in the JSON file, deleted Rows 2 to 1000, and edited the header cells
 ![JSON](jsonfilelab7.png)
