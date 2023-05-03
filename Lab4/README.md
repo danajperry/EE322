@@ -1,4 +1,4 @@
-## Lab 4 - Django and Flask
+# Lab 4 - Django and Flask
 
 First I installed Django and Django REST framework in the terminal, using the default database, i.e., SQLite.
 
