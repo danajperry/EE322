@@ -12,6 +12,7 @@ Next I ran the following codes:
 
 Hello-world.js
 ![Hello-world](helloworld.js.png)
+![helloworld](lab6a.png)
 
 Hello.js
 ![Hello](hello.js.png)
@@ -21,11 +22,11 @@ Http.js
 ![Http](http.js.png)
 ![http1](lab6c.png)
 
-Say_hello.py
-![Say_hello](say_hello.py.png)
-![sayhello](lab6a.png)
 
 ## Lab6b:
+
+Say_hello.py
+![Say_hello](say_hello.py.png)
 
 Say_hello.mustache
 ![Say_hello.Mustache](say_hello.mustache.png)
